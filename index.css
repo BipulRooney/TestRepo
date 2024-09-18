@@ -1,0 +1,29 @@
+body {
+    background-color: aliceblue;
+}
+
+h1{
+    font-family:Highrise;
+    font-size: 30px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+h2
+{
+    font-family:Akira;
+    font-size: 60px;
+    position: absolute;
+    left: 208px;
+    top: 120px;
+}
+.container {
+    width: 500px;
+    height: 600px;
+    background-color: #f0fff0;
+    box-shadow: 10px 10px 5px #bfbdbc;
+    position: absolute;
+    top: 60px;
+    left: 520px;
+}
+
